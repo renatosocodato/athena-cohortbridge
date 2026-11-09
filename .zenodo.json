@@ -1,0 +1,12 @@
+{
+  "title": "athena-cohortbridge: Independent cohort evidence synthesis",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Socodato, Renato"
+    }
+  ],
+  "license": "mit",
+  "version": "0.1.0rc4",
+  "description": "Software release candidate. Independent cohort evidence synthesis. Synthetic examples; see README and INPUTS for assumptions and validation limits."
+}

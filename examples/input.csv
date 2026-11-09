@@ -1,0 +1,4 @@
+cohort,endpoint,unit,tissue,effect,se,independence_group
+synthetic_a,synthetic_contrast,log_ratio,synthetic_csf,0.10,0.10,synthetic_sample_a
+synthetic_b,synthetic_contrast,log_ratio,synthetic_csf,0.20,0.10,synthetic_sample_b
+synthetic_c,synthetic_contrast,log_ratio,synthetic_csf,0.15,0.20,synthetic_sample_c
